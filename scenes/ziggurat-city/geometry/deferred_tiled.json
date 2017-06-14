@@ -1,0 +1,291 @@
+{
+  "meshes": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratBaseUpper1.obj",
+      "id": "ZigguratBaseUpper1"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratStatue1.obj",
+      "id": "ZigguratStatue1"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratBase.obj",
+      "id": "ZigguratBase"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\Houses.obj",
+      "id": "Houses"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\Mountain.obj",
+      "id": "Mountain"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratStatue2.obj",
+      "id": "ZigguratStatue2"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\Wall.obj",
+      "id": "Wall"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratDetail1.obj",
+      "id": "ZigguratDetail1"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratBaseUpper2.obj",
+      "id": "ZigguratBaseUpper2"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratDetail2.obj",
+      "id": "ZigguratDetail2"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratStatue0.obj",
+      "id": "ZigguratStatue0"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratStairs.obj",
+      "id": "ZigguratStairs"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratStatue3.obj",
+      "id": "ZigguratStatue3"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\ZigguratDetail3.obj",
+      "id": "ZigguratDetail3"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\obj\\Ground.obj",
+      "id": "Ground"
+    }
+  ],
+  "objects": [
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratDetail3",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratDetail3.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratDetail2",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratDetail2.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratDetail1",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratDetail1.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratStatue3",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratStatue3.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratStatue2",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratStatue2.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratStatue1",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratStatue1.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratStatue0",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratStatue0.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratBaseUpper1",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratBaseUpper1.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratBaseUpper2",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratBaseUpper2.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratBase",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratBase.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "ZigguratStairs",
+      "shader_id": "deferred_tiled",
+      "name": "ZigguratStairs.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "Mountain",
+      "shader_id": "deferred_tiled",
+      "name": "Mountain.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "Ground",
+      "shader_id": "deferred_tiled",
+      "name": "Ground.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "Wall",
+      "shader_id": "deferred_tiled",
+      "name": "Wall.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "translation": {
+        "z": 0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "mesh_id": "Houses",
+      "shader_id": "deferred_tiled",
+      "name": "Houses.0",
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    }
+  ]
+}
