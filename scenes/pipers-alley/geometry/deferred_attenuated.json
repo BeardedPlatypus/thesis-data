@@ -1,0 +1,1806 @@
+{
+  "meshes": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_05.obj",
+      "id": "Building_05"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\RoadLower.obj",
+      "id": "RoadLower"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\ThrashCan_fallen.obj",
+      "id": "ThrashCan_fallen"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Houses_far.obj",
+      "id": "Houses_far"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Crate1.obj",
+      "id": "Crate1"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_02.obj",
+      "id": "Building_02"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Crate2.obj",
+      "id": "Crate2"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_04.obj",
+      "id": "Building_04"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Planks1.obj",
+      "id": "Planks1"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Cart1.obj",
+      "id": "Cart1"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Planks2.obj",
+      "id": "Planks2"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Cart2.obj",
+      "id": "Cart2"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_09.obj",
+      "id": "Building_09"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_10.obj",
+      "id": "Building_10"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\ThrashCan_closed.obj",
+      "id": "ThrashCan_closed"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_01.obj",
+      "id": "Building_01"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\WaterHydrant.obj",
+      "id": "WaterHydrant"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\ThrashCan_open.obj",
+      "id": "ThrashCan_open"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Planks3.obj",
+      "id": "Planks3"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_08.obj",
+      "id": "Building_08"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\ClockTower.obj",
+      "id": "ClockTower"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Crate3.obj",
+      "id": "Crate3"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\WaterTower.obj",
+      "id": "WaterTower"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_06.obj",
+      "id": "Building_06"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\ThrashCan_lid.obj",
+      "id": "ThrashCan_lid"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\RoadUpper.obj",
+      "id": "RoadUpper"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_11.obj",
+      "id": "Building_11"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Building_03.obj",
+      "id": "Building_03"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\UtilityPole_close.obj",
+      "id": "UtilityPole_close"
+    },
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\obj\\Arch.obj",
+      "id": "Arch"
+    }
+  ],
+  "objects": [
+    {
+      "name": "RoadUpper.0",
+      "mesh_id": "RoadUpper",
+      "translation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "RoadLower.0",
+      "mesh_id": "RoadLower",
+      "translation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Houses_far.0",
+      "mesh_id": "Houses_far",
+      "translation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_09.0",
+      "mesh_id": "Building_09",
+      "translation": {
+        "y": 1.1006441127392463e-05,
+        "z": -74.97899627685547,
+        "x": -387.2171630859375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.4315789937973022,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_06.0",
+      "mesh_id": "Building_06",
+      "translation": {
+        "y": -1.2878191471099854,
+        "z": 14.551155090332031,
+        "x": -568.2225952148438
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.33888232707977295,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterTower.0",
+      "mesh_id": "WaterTower",
+      "translation": {
+        "y": 0.0,
+        "z": -70.66069793701172,
+        "x": -509.6090087890625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks3.0",
+      "mesh_id": "Planks3",
+      "translation": {
+        "y": 0.0,
+        "z": -0.6176719665527344,
+        "x": -341.15850830078125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks2.0",
+      "mesh_id": "Planks2",
+      "translation": {
+        "y": 0.7879961133003235,
+        "z": -37.38656997680664,
+        "x": -333.9433288574219
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks2.1",
+      "mesh_id": "Planks2",
+      "translation": {
+        "y": 0.7879911065101624,
+        "z": -14.509109497070312,
+        "x": -133.21929931640625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks1.0",
+      "mesh_id": "Planks1",
+      "translation": {
+        "y": 1.5901172161102295,
+        "z": 10.37761116027832,
+        "x": -379.6061706542969
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.435713529586792,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks1.1",
+      "mesh_id": "Planks1",
+      "translation": {
+        "y": 1.59010910987854,
+        "z": 46.102237701416016,
+        "x": -179.97860717773438
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.173215627670288,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks1.2",
+      "mesh_id": "Planks1",
+      "translation": {
+        "y": 1.59010910987854,
+        "z": 33.05064010620117,
+        "x": -80.09666442871094
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.7187422513961792,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Cart2.0",
+      "mesh_id": "Cart2",
+      "translation": {
+        "y": 0.7902717590332031,
+        "z": 45.49235153198242,
+        "x": -128.22674560546875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Cart1.0",
+      "mesh_id": "Cart1",
+      "translation": {
+        "y": 0.7318099141120911,
+        "z": 8.637041091918945,
+        "x": -411.1640625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.9776204824447632,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Cart1.1",
+      "mesh_id": "Cart1",
+      "translation": {
+        "y": 0.7318100929260254,
+        "z": -6.2413482666015625,
+        "x": -208.4493408203125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.8725626468658447,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate3.0",
+      "mesh_id": "Crate3",
+      "translation": {
+        "y": 0.5879297256469727,
+        "z": -5.351154804229736,
+        "x": -49.684200286865234
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.454357385635376,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate2.0",
+      "mesh_id": "Crate2",
+      "translation": {
+        "y": 0.369208425283432,
+        "z": -5.90239953994751,
+        "x": -41.916255950927734
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.8873847723007202,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate1.0",
+      "mesh_id": "Crate1",
+      "translation": {
+        "y": 0.6184462308883667,
+        "z": -6.223038196563721,
+        "x": -45.592830657958984
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.0265785455703735,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate1.1",
+      "mesh_id": "Crate1",
+      "translation": {
+        "y": 0.6184462308883667,
+        "z": -9.73599624633789,
+        "x": -151.47433471679688
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.0265785455703735,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate2.1",
+      "mesh_id": "Crate2",
+      "translation": {
+        "y": 0.369208425283432,
+        "z": -9.41535758972168,
+        "x": -147.79776000976562
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.8873847723007202,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate3.1",
+      "mesh_id": "Crate3",
+      "translation": {
+        "y": 0.5879297256469727,
+        "z": -8.864112854003906,
+        "x": -155.56570434570312
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.454357385635376,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate3.2",
+      "mesh_id": "Crate3",
+      "translation": {
+        "y": 0.5879297256469727,
+        "z": -37.77008819580078,
+        "x": -399.85479736328125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.6828547716140747,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate2.2",
+      "mesh_id": "Crate2",
+      "translation": {
+        "y": 0.369208425283432,
+        "z": -36.54745101928711,
+        "x": -392.16387939453125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.115882158279419,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate1.2",
+      "mesh_id": "Crate1",
+      "translation": {
+        "y": 0.6184462308883667,
+        "z": -37.69255447387695,
+        "x": -395.6722717285156
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.79808109998703,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate1.3",
+      "mesh_id": "Crate1",
+      "translation": {
+        "y": 0.6184459924697876,
+        "z": 29.059917449951172,
+        "x": -265.5501708984375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.761260747909546,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate2.3",
+      "mesh_id": "Crate2",
+      "translation": {
+        "y": 0.3692081868648529,
+        "z": 26.58991050720215,
+        "x": -268.29229736328125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.6079614162445068,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate3.3",
+      "mesh_id": "Crate3",
+      "translation": {
+        "y": 0.5879294872283936,
+        "z": 30.827648162841797,
+        "x": -261.7588195800781
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.040988802909851,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate3.4",
+      "mesh_id": "Crate3",
+      "translation": {
+        "y": 0.5879294872283936,
+        "z": 38.124107360839844,
+        "x": -77.13604736328125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.5526660680770874,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate2.4",
+      "mesh_id": "Crate2",
+      "translation": {
+        "y": 0.3692081868648529,
+        "z": 37.628173828125,
+        "x": -84.90771484375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 2.119638681411743,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate1.4",
+      "mesh_id": "Crate1",
+      "translation": {
+        "y": 0.6184459924697876,
+        "z": 38.439178466796875,
+        "x": -81.30740356445312
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.2495834827423096,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_lid.0",
+      "mesh_id": "ThrashCan_lid",
+      "translation": {
+        "y": 0.5613499879837036,
+        "z": -20.1607608795166,
+        "x": -140.76576232910156
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_open.0",
+      "mesh_id": "ThrashCan_open",
+      "translation": {
+        "y": 0.5817255973815918,
+        "z": 41.21913528442383,
+        "x": -122.74445343017578
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_open.1",
+      "mesh_id": "ThrashCan_open",
+      "translation": {
+        "y": 0.5817255973815918,
+        "z": -8.367740631103516,
+        "x": -23.49960708618164
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_closed.0",
+      "mesh_id": "ThrashCan_closed",
+      "translation": {
+        "y": 0.6573808789253235,
+        "z": -36.64162826538086,
+        "x": -405.6697998046875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_closed.1",
+      "mesh_id": "ThrashCan_closed",
+      "translation": {
+        "y": 0.6573811173439026,
+        "z": 17.722679138183594,
+        "x": -327.70458984375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_closed.2",
+      "mesh_id": "ThrashCan_closed",
+      "translation": {
+        "y": 0.6573812365531921,
+        "z": -31.123008728027344,
+        "x": -275.8060607910156
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_closed.3",
+      "mesh_id": "ThrashCan_closed",
+      "translation": {
+        "y": 0.6573812365531921,
+        "z": 36.74431610107422,
+        "x": -222.61593627929688
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_closed.4",
+      "mesh_id": "ThrashCan_closed",
+      "translation": {
+        "y": 0.6573812365531921,
+        "z": -9.518184661865234,
+        "x": -71.38218688964844
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_fallen.0",
+      "mesh_id": "ThrashCan_fallen",
+      "translation": {
+        "y": 0.6310210824012756,
+        "z": 13.016424179077148,
+        "x": -327.42010498046875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.261420726776123,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_fallen.1",
+      "mesh_id": "ThrashCan_fallen",
+      "translation": {
+        "y": 0.6310210824012756,
+        "z": -14.739944458007812,
+        "x": -138.09246826171875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.08146832883358002,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.0",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981082916259766,
+        "z": -5.127862453460693,
+        "x": 62.26698303222656
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.254181146621704,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.1",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981082916259766,
+        "z": -5.112427711486816,
+        "x": -34.605552673339844
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.254181146621704,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.2",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981082916259766,
+        "z": -6.964341163635254,
+        "x": -117.1164779663086
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.254181146621704,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.3",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981082916259766,
+        "z": -3.0963950157165527,
+        "x": -200.0944366455078
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.254181146621704,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.4",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981069207191467,
+        "z": -30.813356399536133,
+        "x": -272.1043395996094
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.2502521276474,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.5",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981056690216064,
+        "z": -38.33256530761719,
+        "x": -338.166748046875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.2502521276474,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.6",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981056690216064,
+        "z": -43.23933410644531,
+        "x": -371.3489990234375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.2740758955478668,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.7",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981056690216064,
+        "z": -41.445457458496094,
+        "x": -465.36444091796875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.2740758955478668,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.8",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981056094169617,
+        "z": 3.1708664894104004,
+        "x": -468.12359619140625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.2517802715301514,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.9",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981045365333557,
+        "z": 4.230884552001953,
+        "x": -400.77166748046875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.2517802715301514,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.10",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981045365333557,
+        "z": 16.461862564086914,
+        "x": -362.4153137207031
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.2517802715301514,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.11",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981038808822632,
+        "z": 10.120361328125,
+        "x": -314.1098937988281
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.6193201541900635,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.12",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981038808822632,
+        "z": 24.094165802001953,
+        "x": -257.35968017578125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.70661997795105,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.13",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981038808822632,
+        "z": 41.787357330322266,
+        "x": -189.726318359375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.6727772951126099,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.14",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981057286262512,
+        "z": 35.020057678222656,
+        "x": -130.18540954589844
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.6727772951126099,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.15",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981077551841736,
+        "z": 31.709613800048828,
+        "x": -65.16255187988281
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.6397681832313538,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.16",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981077551841736,
+        "z": 32.76246643066406,
+        "x": -3.581847667694092
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.8811660408973694,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.0",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -9.0339617599966e-06,
+        "z": -7.000887393951416,
+        "x": 57.69258499145508
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.07056090980768204,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.1",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.803929631540086e-06,
+        "z": -6.920640468597412,
+        "x": -29.139081954956055
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.07056090980768204,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.2",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.739883924135938e-06,
+        "z": -10.442155838012695,
+        "x": -123.7918701171875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.04975270852446556,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.3",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.710081601748243e-06,
+        "z": -15.086324691772461,
+        "x": -239.88436889648438
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.13401365280151367,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.4",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.710081601748243e-06,
+        "z": -36.426918029785156,
+        "x": -303.50494384765625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.010173354297876358,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.5",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.900370630726684e-06,
+        "z": -36.86233901977539,
+        "x": -374.2830810546875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.010173354297876358,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.6",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -9.184532245853916e-06,
+        "z": -39.56293487548828,
+        "x": -470.7381286621094
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.010173354297876358,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.7",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -9.184532245853916e-06,
+        "z": -0.28141260147094727,
+        "x": -522.4964599609375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.010173354297876358,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.8",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.900370630726684e-06,
+        "z": 2.419184923171997,
+        "x": -417.642822265625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.010173354297876358,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.9",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.710081601748243e-06,
+        "z": 5.472034454345703,
+        "x": -347.42730712890625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.010173354297876358,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.10",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.710081601748243e-06,
+        "z": 9.464221954345703,
+        "x": -289.1883544921875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.13401365280151367,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.11",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.739883924135938e-06,
+        "z": 39.05956268310547,
+        "x": -173.09585571289062
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.04975270852446556,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.12",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.739883924135938e-06,
+        "z": 30.633790969848633,
+        "x": -74.70451354980469
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.04975270852446556,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.13",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.752811481826939e-06,
+        "z": 35.3495979309082,
+        "x": 18.610631942749023
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.07056090980768204,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_11.0",
+      "mesh_id": "Building_11",
+      "translation": {
+        "y": 1.0702196959755383e-06,
+        "z": 26.663990020751953,
+        "x": -495.83197021484375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 2.7657129764556885,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_05.0",
+      "mesh_id": "Building_05",
+      "translation": {
+        "y": -1.6969009948297753e-06,
+        "z": 27.796058654785156,
+        "x": -444.66796875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.19718773663043976,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_01.0",
+      "mesh_id": "Building_01",
+      "translation": {
+        "y": 6.073929625927121e-07,
+        "z": -50.75929641723633,
+        "x": -498.69573974609375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -2.8681352138519287,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_06.1",
+      "mesh_id": "Building_06",
+      "translation": {
+        "y": -4.831971978092042e-07,
+        "z": 29.911643981933594,
+        "x": -391.8947448730469
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.36551642417907715,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_04.0",
+      "mesh_id": "Building_04",
+      "translation": {
+        "y": 4.510574854066363e-06,
+        "z": -67.51182556152344,
+        "x": -452.7923889160156
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.14933240413665771,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_03.0",
+      "mesh_id": "Building_03",
+      "translation": {
+        "y": 3.814697265625e-06,
+        "z": -59.32431411743164,
+        "x": -417.3130798339844
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.28476575016975403,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_02.0",
+      "mesh_id": "Building_02",
+      "translation": {
+        "y": 3.814697265625e-06,
+        "z": -50.27455139160156,
+        "x": -390.7633056640625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.051506899297237396,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_10.0",
+      "mesh_id": "Building_10",
+      "translation": {
+        "y": -1.4948446960261208e-06,
+        "z": 24.122390747070312,
+        "x": -342.98565673828125
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 3.0657591819763184,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_08.0",
+      "mesh_id": "Building_08",
+      "translation": {
+        "y": 4.344812168710632e-06,
+        "z": 31.194303512573242,
+        "x": -295.9042053222656
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 2.837265729904175,
+        "z": 3.207121679338343e-09,
+        "x": 1.4175576268371515e-08
+      }
+    },
+    {
+      "name": "Building_04.1",
+      "mesh_id": "Building_04",
+      "translation": {
+        "y": 1.2199906450405251e-05,
+        "z": -53.833648681640625,
+        "x": -249.07391357421875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 2.911364793777466,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_03.1",
+      "mesh_id": "Building_03",
+      "translation": {
+        "y": 1.1270271897956263e-05,
+        "z": -54.616424560546875,
+        "x": -287.0007019042969
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -3.032559394836426,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_02.1",
+      "mesh_id": "Building_02",
+      "translation": {
+        "y": 1.1262946827628184e-05,
+        "z": -50.31679153442383,
+        "x": -321.19586181640625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -3.032559394836426,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_02.2",
+      "mesh_id": "Building_02",
+      "translation": {
+        "y": -2.9802322387695312e-08,
+        "z": -20.963165283203125,
+        "x": -218.62705993652344
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 3.075700044631958,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_11.1",
+      "mesh_id": "Building_11",
+      "translation": {
+        "y": 4.036133759655058e-06,
+        "z": -31.958276748657227,
+        "x": -169.8603973388672
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.2723967432975769,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_01.1",
+      "mesh_id": "Building_01",
+      "translation": {
+        "y": 6.799841116844618e-07,
+        "z": 53.2434196472168,
+        "x": 69.11405944824219
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.07961307466030121,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_02.3",
+      "mesh_id": "Building_02",
+      "translation": {
+        "y": 0.0,
+        "z": 50.55677032470703,
+        "x": 8.77155876159668
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_03.2",
+      "mesh_id": "Building_03",
+      "translation": {
+        "y": 0.0,
+        "z": 52.298492431640625,
+        "x": -18.91393280029297
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_04.2",
+      "mesh_id": "Building_04",
+      "translation": {
+        "y": 8.317360880027991e-07,
+        "z": 56.920318603515625,
+        "x": -50.271240234375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_05.1",
+      "mesh_id": "Building_05",
+      "translation": {
+        "y": -1.3559224498749245e-06,
+        "z": 62.606929779052734,
+        "x": -209.694091796875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.07324353605508804,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_06.2",
+      "mesh_id": "Building_06",
+      "translation": {
+        "y": -4.831971978092042e-07,
+        "z": 49.205745697021484,
+        "x": -252.15562438964844
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.129860058426857,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_11.2",
+      "mesh_id": "Building_11",
+      "translation": {
+        "y": 3.580274551495677e-06,
+        "z": 62.08610916137695,
+        "x": -94.25006103515625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 2.8216354846954346,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_10.1",
+      "mesh_id": "Building_10",
+      "translation": {
+        "y": -3.9958422681785066e-10,
+        "z": -25.639802932739258,
+        "x": -104.8643569946289
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.04088882356882095,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_09.1",
+      "mesh_id": "Building_09",
+      "translation": {
+        "y": -3.071470473514637e-06,
+        "z": -22.659168243408203,
+        "x": -52.465309143066406
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Building_08.1",
+      "mesh_id": "Building_08",
+      "translation": {
+        "y": 3.569618911569705e-07,
+        "z": -21.27227020263672,
+        "x": 1.3867144584655762
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Arch.0",
+      "mesh_id": "Arch",
+      "translation": {
+        "y": 145.81561279296875,
+        "z": -99.29859161376953,
+        "x": -1618.8756103515625
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ClockTower.0",
+      "mesh_id": "ClockTower",
+      "translation": {
+        "y": 103.37826538085938,
+        "z": -229.3960723876953,
+        "x": -1678.0819091796875
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.23497341573238373,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "UtilityPole_close.14",
+      "mesh_id": "UtilityPole_close",
+      "translation": {
+        "y": -8.752811481826939e-06,
+        "z": 40.553131103515625,
+        "x": 92.23284912109375
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -0.07056090980768204,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterHydrant.17",
+      "mesh_id": "WaterHydrant",
+      "translation": {
+        "y": 0.5981077551841736,
+        "z": 37.464107513427734,
+        "x": 42.06553649902344
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_fallen.2",
+      "mesh_id": "ThrashCan_fallen",
+      "translation": {
+        "y": 0.6310210824012756,
+        "z": 43.946712493896484,
+        "x": 40.85143280029297
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.909547209739685,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_closed.5",
+      "mesh_id": "ThrashCan_closed",
+      "translation": {
+        "y": 0.6573822498321533,
+        "z": 38.035919189453125,
+        "x": -5.393552780151367
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_open.2",
+      "mesh_id": "ThrashCan_open",
+      "translation": {
+        "y": 1.4965109825134277,
+        "z": -18.61813735961914,
+        "x": 23.791793823242188
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "ThrashCan_lid.1",
+      "mesh_id": "ThrashCan_lid",
+      "translation": {
+        "y": 0.5613500475883484,
+        "z": 43.87501525878906,
+        "x": -122.56431579589844
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate1.5",
+      "mesh_id": "Crate1",
+      "translation": {
+        "y": 0.618440568447113,
+        "z": 38.628875732421875,
+        "x": 7.402162551879883
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate2.5",
+      "mesh_id": "Crate2",
+      "translation": {
+        "y": 0.36920279264450073,
+        "z": 38.62272262573242,
+        "x": 11.092683792114258
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 1.2276294231414795,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Crate3.5",
+      "mesh_id": "Crate3",
+      "translation": {
+        "y": 0.587924063205719,
+        "z": 37.41151428222656,
+        "x": 3.3999791145324707
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.660656750202179,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Cart1.2",
+      "mesh_id": "Cart1",
+      "translation": {
+        "y": 0.731816828250885,
+        "z": 37.52249526977539,
+        "x": -38.864219665527344
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Cart2.1",
+      "mesh_id": "Cart2",
+      "translation": {
+        "y": 0.7902717590332031,
+        "z": -13.118598937988281,
+        "x": -29.889503479003906
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks1.3",
+      "mesh_id": "Planks1",
+      "translation": {
+        "y": 5.960464477539063e-08,
+        "z": 2.831590414047241,
+        "x": 3.378652572631836
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": -1.008730411529541,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks2.2",
+      "mesh_id": "Planks2",
+      "translation": {
+        "y": 0.787991464138031,
+        "z": -9.735881805419922,
+        "x": -81.42916107177734
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "Planks3.1",
+      "mesh_id": "Planks3",
+      "translation": {
+        "y": 0.0,
+        "z": 24.135860443115234,
+        "x": -96.86959075927734
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "name": "WaterTower.1",
+      "mesh_id": "WaterTower",
+      "translation": {
+        "y": 0.0,
+        "z": -52.11348342895508,
+        "x": -126.76140594482422
+      },
+      "shader_id": "deferred_attenuated",
+      "rotation": {
+        "y": 0.0,
+        "z": -0.0,
+        "x": 0.0
+      }
+    }
+  ]
+}
