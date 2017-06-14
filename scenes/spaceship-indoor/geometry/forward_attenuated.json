@@ -1,0 +1,2927 @@
+{
+  "objects": [
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 20.513381958007812,
+        "y": 0.03567597270011902,
+        "x": 85.62757110595703
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 20.51337432861328,
+        "y": 9.419721603393555,
+        "x": 72.51214599609375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 20.513376235961914,
+        "y": 9.419721603393555,
+        "x": 98.74299621582031
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.44921875,
+        "y": 0.03567597270011902,
+        "x": 85.159912109375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.44921112060547,
+        "y": 9.419721603393555,
+        "x": 98.27533721923828
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.44921112060547,
+        "y": 9.419721603393555,
+        "x": 72.04448699951172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.474884033203125,
+        "y": 0.03567597270011902,
+        "x": 85.2851791381836
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.474876403808594,
+        "y": 9.419721603393555,
+        "x": 72.16975402832031
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.474876403808594,
+        "y": 9.419721603393555,
+        "x": 98.40060424804688
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.46205139160156,
+        "y": 0.03567597270011902,
+        "x": 85.26012420654297
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.46204376220703,
+        "y": 9.419721603393555,
+        "x": 98.37554931640625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.46204376220703,
+        "y": 9.419721603393555,
+        "x": 72.14469909667969
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.48771667480469,
+        "y": 0.03567597270011902,
+        "x": 85.4605484008789
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.487709045410156,
+        "y": 9.419721603393555,
+        "x": 72.34512329101562
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.487709045410156,
+        "y": 9.419721603393555,
+        "x": 98.57597351074219
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 20.10697364807129,
+        "y": 0.03567591309547424,
+        "x": -85.5070571899414
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 20.106964111328125,
+        "y": 9.419721603393555,
+        "x": -98.62248229980469
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 20.10696792602539,
+        "y": 9.419721603393555,
+        "x": -72.39163208007812
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 32.148460388183594,
+        "y": 0.03567591309547424,
+        "x": -85.19139099121094
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 32.14845275878906,
+        "y": 9.419721603393555,
+        "x": -98.30681610107422
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 32.14845275878906,
+        "y": 9.419721603393555,
+        "x": -72.07596588134766
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.23143768310547,
+        "y": 0.03567591309547424,
+        "x": -84.84375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.23143005371094,
+        "y": 9.419721603393555,
+        "x": -71.72832489013672
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.23143005371094,
+        "y": 9.419721603393555,
+        "x": -97.95917510986328
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.2729263305664,
+        "y": 0.03567591309547424,
+        "x": -84.82296752929688
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.27291870117188,
+        "y": 9.419721603393555,
+        "x": -97.93839263916016
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.27291870117188,
+        "y": 9.419721603393555,
+        "x": -71.7075424194336
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.18994903564453,
+        "y": 0.03567591309547424,
+        "x": -84.96842956542969
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.18994140625,
+        "y": 9.419721603393555,
+        "x": -71.8530044555664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.18994140625,
+        "y": 9.419721603393555,
+        "x": -98.08385467529297
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.31441497802734,
+        "y": 0.03567591309547424,
+        "x": -84.84375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.31440734863281,
+        "y": 9.419721603393555,
+        "x": -97.95917510986328
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.31440734863281,
+        "y": 9.419721603393555,
+        "x": -71.72832489013672
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54527282714844,
+        "y": 0.026461109519004822,
+        "x": 66.1686782836914
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.11622619628906,
+        "y": 9.410506248474121,
+        "x": 66.16868591308594
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97431945800781,
+        "y": 9.410506248474121,
+        "x": 66.16868591308594
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54527282714844,
+        "y": 0.026461094617843628,
+        "x": 54.25736999511719
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97431945800781,
+        "y": 9.410506248474121,
+        "x": 54.25737762451172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.11622619628906,
+        "y": 9.410506248474121,
+        "x": 54.25737762451172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54527282714844,
+        "y": 0.026461079716682434,
+        "x": 42.34606170654297
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.11622619628906,
+        "y": 9.410506248474121,
+        "x": 42.3460693359375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97431945800781,
+        "y": 9.410506248474121,
+        "x": 42.3460693359375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54527282714844,
+        "y": 0.02646106481552124,
+        "x": 30.43475341796875
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97431945800781,
+        "y": 9.410506248474121,
+        "x": 30.43476104736328
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.11622619628906,
+        "y": 9.410506248474121,
+        "x": 30.43476104736328
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54527282714844,
+        "y": 0.026461049914360046,
+        "x": 18.52344512939453
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.11622619628906,
+        "y": 9.410506248474121,
+        "x": 18.523452758789062
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97431945800781,
+        "y": 9.410506248474121,
+        "x": 18.523452758789062
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54528045654297,
+        "y": 0.02646106481552124,
+        "x": -66.08982849121094
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97432708740234,
+        "y": 9.410506248474121,
+        "x": -66.0898208618164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.1162338256836,
+        "y": 9.410506248474121,
+        "x": -66.0898208618164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54528045654297,
+        "y": 0.02646106481552124,
+        "x": -54.17852020263672
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.1162338256836,
+        "y": 9.410506248474121,
+        "x": -54.17851257324219
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97432708740234,
+        "y": 9.410506248474121,
+        "x": -54.17851257324219
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54528045654297,
+        "y": 0.02646106481552124,
+        "x": -42.2672119140625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97432708740234,
+        "y": 9.410506248474121,
+        "x": -42.26720428466797
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.1162338256836,
+        "y": 9.410506248474121,
+        "x": -42.26720428466797
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54528045654297,
+        "y": 0.02646106481552124,
+        "x": -30.35590362548828
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.1162338256836,
+        "y": 9.410506248474121,
+        "x": -30.35589599609375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97432708740234,
+        "y": 9.410506248474121,
+        "x": -30.35589599609375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54528045654297,
+        "y": 0.02646106481552124,
+        "x": -18.444599151611328
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97432708740234,
+        "y": 9.410506248474121,
+        "x": -18.444591522216797
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 85.1162338256836,
+        "y": 9.410506248474121,
+        "x": -18.444591522216797
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.80032348632812,
+        "y": 0.03567589819431305,
+        "x": -85.50312805175781
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.80033111572266,
+        "y": 9.419721603393555,
+        "x": -98.6185531616211
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.80033111572266,
+        "y": 9.419721603393555,
+        "x": -72.38770294189453
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -20.77436637878418,
+        "y": 0.03567589819431305,
+        "x": -85.95825958251953
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -20.774372100830078,
+        "y": 9.419721603393555,
+        "x": -72.84283447265625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -20.774375915527344,
+        "y": 9.419721603393555,
+        "x": -99.07368469238281
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -33.254249572753906,
+        "y": 0.03567589819431305,
+        "x": -85.82881927490234
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -33.25425720214844,
+        "y": 9.419721603393555,
+        "x": -98.94424438476562
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -33.25425720214844,
+        "y": 9.419721603393555,
+        "x": -72.71339416503906
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -45.450191497802734,
+        "y": 0.03567589819431305,
+        "x": -85.632568359375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -45.4501953125,
+        "y": 9.419721603393555,
+        "x": -72.51714324951172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -45.450199127197266,
+        "y": 9.419721603393555,
+        "x": -98.74799346923828
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.591854095458984,
+        "y": 0.03567589819431305,
+        "x": -85.55323791503906
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.591861724853516,
+        "y": 9.419721603393555,
+        "x": -98.66866302490234
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.59185791015625,
+        "y": 9.419721603393555,
+        "x": -72.43781280517578
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CornerRight",
+      "name": "CornerRight.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54527282714844,
+        "y": 0.026461124420166016,
+        "x": 84.62571716308594
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461049914360046,
+        "x": -18.46912384033203
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": -18.4691162109375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": -18.4691162109375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461049914360046,
+        "x": -42.2917366027832
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": -42.29172897338867
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.2",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": -42.29172897338867
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461049914360046,
+        "x": -66.11434936523438
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.3",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": -66.11434173583984
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.4",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": -66.11434173583984
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461049914360046,
+        "x": -54.203041076660156
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": -54.203033447265625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.5",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": -54.203033447265625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461049914360046,
+        "x": -30.380430221557617
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": -30.380422592163086
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.6",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": -30.380422592163086
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.16",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 32.50054931640625,
+        "y": 0.03567597270011902,
+        "x": 85.62757110595703
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 32.50054168701172,
+        "y": 9.419721603393555,
+        "x": 98.74299621582031
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 32.50054168701172,
+        "y": 9.419721603393555,
+        "x": 72.51214599609375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.17",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -20.152446746826172,
+        "y": 0.03567598760128021,
+        "x": 85.21149444580078
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -20.152454376220703,
+        "y": 9.419721603393555,
+        "x": 72.0960693359375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -20.15245246887207,
+        "y": 9.419721603393555,
+        "x": 98.32691955566406
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.18",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -44.944488525390625,
+        "y": 0.03567598760128021,
+        "x": 84.84835815429688
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -44.944496154785156,
+        "y": 9.419721603393555,
+        "x": 97.96378326416016
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.7",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -44.944496154785156,
+        "y": 9.419721603393555,
+        "x": 71.7329330444336
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.19",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.61764526367188,
+        "y": 0.03567598760128021,
+        "x": 84.6270523071289
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.6176528930664,
+        "y": 9.419721603393555,
+        "x": 71.51162719726562
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.8",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.6176528930664,
+        "y": 9.419721603393555,
+        "x": 97.74247741699219
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.20",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.337608337402344,
+        "y": 0.03567598760128021,
+        "x": 84.6270523071289
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.337615966796875,
+        "y": 9.419721603393555,
+        "x": 97.74247741699219
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.337615966796875,
+        "y": 9.419721603393555,
+        "x": 71.51162719726562
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CornerLeft",
+      "name": "CornerLeft.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54528045654297,
+        "y": 0.02646106481552124,
+        "x": -84.61517333984375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461124420166016,
+        "x": 66.14414978027344
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410507202148438,
+        "x": 66.14415740966797
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410507202148438,
+        "x": 66.14415740966797
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.16",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461109519004822,
+        "x": 54.23284149169922
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": 54.23284912109375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.16",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": 54.23284912109375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.17",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461094617843628,
+        "x": 42.321533203125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": 42.32154083251953
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.17",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": 42.32154083251953
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.18",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461079716682434,
+        "x": 30.410226821899414
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": 30.410234451293945
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": 30.410234451293945
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.19",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.02646106481552124,
+        "x": 18.498920440673828
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -74.60214233398438,
+        "y": 9.410506248474121,
+        "x": 18.49892807006836
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.9",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.46023559570312,
+        "y": 9.410506248474121,
+        "x": 18.49892807006836
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "Junction-T-wts",
+      "name": "Junction-T-wts.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 5.960464477539063e-08,
+        "x": 85.62760162353516
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 7.109712600708008,
+        "y": 9.384045600891113,
+        "x": 98.74300384521484
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.5707961320877075,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -7.127941608428955,
+        "y": 9.384045600891113,
+        "x": 98.74300384521484
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.5707961320877075,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "Junction-T-stw",
+      "name": "Junction-T-stw.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 99.54293823242188,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97198486328125,
+        "y": 9.384045600891113,
+        "x": 6.303609371185303
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 113.97199249267578,
+        "y": 9.384045600891113,
+        "x": -6.224758148193359
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.20",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": -55.43285369873047
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.18",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -55.43284606933594
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -55.43284606933594
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.21",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": -67.34416198730469
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -67.34415435791016
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -67.34415435791016
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.22",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": -43.52154541015625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -43.52153778076172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -43.52153778076172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.23",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": -31.61023712158203
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -31.6102294921875
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": -31.6102294921875
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.24",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 4.470348358154297e-08,
+        "x": 67.19114685058594
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 67.19115447998047
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.10",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 67.19115447998047
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.25",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 2.9802322387695312e-08,
+        "x": 55.27983856201172
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.11",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 55.27984619140625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 55.27984619140625
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.26",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 1.4901161193847656e-08,
+        "x": 43.3685302734375
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.19",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 43.36853790283203
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.20",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 43.36853790283203
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorWide",
+      "name": "CorridorWide.27",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 31.45722198486328
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.21",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 31.457229614257812
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.16",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -14.429046630859375,
+        "y": 9.384045600891113,
+        "x": 31.457229614257812
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.21",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.22075653076172,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.22074890136719,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 80.22074890136719,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.22",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.23358917236328,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.17",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.23358154296875,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.18",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 68.23358154296875,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.23",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.246421813964844,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.24641418457031,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.12",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 56.24641418457031,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.24",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.25925827026367,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.259254455566406,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 44.25925064086914,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.25",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.72844696044922,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.72845458984375,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelC",
+      "name": "PanelC.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -69.72845458984375,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.26",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.68695831298828,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.22",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.68696594238281,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.19",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -57.68696594238281,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.27",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -45.645469665527344,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelE",
+      "name": "PanelE.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -45.645477294921875,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.13",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -45.645477294921875,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.28",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -33.60398483276367,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -33.60398864746094,
+        "y": 9.384045600891113,
+        "x": 13.142587661743164
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -33.6039924621582,
+        "y": 9.384045600891113,
+        "x": -13.088266372680664
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "Junction-4",
+      "name": "Junction-4.0",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CorridorSmall",
+      "name": "CorridorSmall.29",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -32.348388671875,
+        "y": 0.03567598760128021,
+        "x": 84.97779846191406
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelB",
+      "name": "PanelB.23",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -32.34839630126953,
+        "y": 9.419721603393555,
+        "x": 71.86237335205078
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelD",
+      "name": "PanelD.14",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -32.34839630126953,
+        "y": 9.419721603393555,
+        "x": 98.09322357177734
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 1.570796251296997,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "Junction-T-stw",
+      "name": "Junction-T-stw.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.02885437011719,
+        "y": 0.0,
+        "x": 0.02716064453125
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.4579086303711,
+        "y": 9.384045600891113,
+        "x": 6.27908182144165
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelF",
+      "name": "PanelF.20",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -103.45790100097656,
+        "y": 9.384045600891113,
+        "x": -6.249285697937012
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 3.141592502593994,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "Junction-T-wts",
+      "name": "Junction-T-wts.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": -85.77442932128906
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelG",
+      "name": "PanelG.16",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": 7.127943515777588,
+        "y": 9.384045600891113,
+        "x": -98.88983154296875
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "PanelA",
+      "name": "PanelA.15",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -7.109710693359375,
+        "y": 9.384045600891113,
+        "x": -98.88983154296875
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": -1.5707963705062866,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CornerLeft",
+      "name": "CornerLeft.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.02646113932132721,
+        "x": 84.6270523071289
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    },
+    {
+      "mesh_id": "CornerRight",
+      "name": "CornerRight.1",
+      "shader_id": "forward_attenuated",
+      "translation": {
+        "z": -89.03118896484375,
+        "y": 0.026461049914360046,
+        "x": -85.50312805175781
+      },
+      "rotation": {
+        "z": -0.0,
+        "y": 0.0,
+        "x": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "id": "Junction-4",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\Junction-4.obj"
+    },
+    {
+      "id": "Junction-T-stw",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\Junction-T-stw.obj"
+    },
+    {
+      "id": "PanelB",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelB.obj"
+    },
+    {
+      "id": "CorridorWide",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\CorridorWide.obj"
+    },
+    {
+      "id": "Junction-T-wts",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\Junction-T-wts.obj"
+    },
+    {
+      "id": "PanelE",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelE.obj"
+    },
+    {
+      "id": "PanelD",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelD.obj"
+    },
+    {
+      "id": "CorridorSmall",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\CorridorSmall.obj"
+    },
+    {
+      "id": "CornerRight",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\CornerRight.obj"
+    },
+    {
+      "id": "PanelG",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelG.obj"
+    },
+    {
+      "id": "PanelC",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelC.obj"
+    },
+    {
+      "id": "PanelF",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelF.obj"
+    },
+    {
+      "id": "CornerLeft",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\CornerLeft.obj"
+    },
+    {
+      "id": "PanelA",
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\obj\\PanelA.obj"
+    }
+  ]
+}
