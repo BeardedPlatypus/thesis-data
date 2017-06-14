@@ -1,0 +1,65 @@
+{
+  "viewport": {
+    "height": 1280,
+    "width": 1280
+  },
+  "hashed_config": {
+    "r_increase_ratio": 1.5,
+    "max_attempts": 15,
+    "node_size": 10,
+    "starting_depth": 1
+  },
+  "pipeline": "FORWARD",
+  "camera": {
+    "clip": {
+      "near": 0.01,
+      "far": 4000.0
+    },
+    "control": "PATH",
+    "fovy": 45.0,
+    "up": {
+      "x": 0.191558837890625,
+      "y": 2.4397192001342773,
+      "z": 0.0
+    },
+    "eye": {
+      "x": 158.68478393554688,
+      "y": 3.7858095169067383,
+      "z": 20.290212631225586
+    },
+    "frames_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\camera\\camera.json",
+    "center": {
+      "x": 155.69398498535156,
+      "y": 4.0206146240234375,
+      "z": 20.290212631225586
+    },
+    "aspect": 1.0,
+    "output": {
+      "type": "DISPLAY",
+      "image_base_path": "",
+      "frame_end": 551,
+      "frame_start": 3
+    }
+  },
+  "geometry": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\geometry\\forward_attenuated.json"
+    }
+  ],
+  "tile_size": {
+    "x": 32,
+    "y": 32
+  },
+  "lights": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\lights\\174#1x_1y_3z.json"
+    }
+  ],
+  "exit_frame": 556,
+  "log": {
+    "output_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\forward_deferred\\forward\\pipers-alley\\174#1x_1y_3z\\1280\\data_2.json",
+    "is_logging": true,
+    "frame_end": 551,
+    "frame_start": 3
+  }
+}

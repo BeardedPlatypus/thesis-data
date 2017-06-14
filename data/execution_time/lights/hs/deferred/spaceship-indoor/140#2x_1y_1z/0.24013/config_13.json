@@ -1,0 +1,67 @@
+{
+  "tile_size": {
+    "y": 32,
+    "x": 32
+  },
+  "exit_frame": 524,
+  "lights": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\lights\\140#2x_1y_1z.json"
+    }
+  ],
+  "viewport": {
+    "height": 2560,
+    "width": 2560
+  },
+  "geometry": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\geometry\\deferred_hashed.json"
+    }
+  ],
+  "log": {
+    "output_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\hashed_exec_lights\\deferred\\spaceship-indoor\\140#2x_1y_1z\\0.24013\\data_13.json",
+    "is_logging": true,
+    "frame_end": 519,
+    "memory_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\hashed_exec_lights\\deferred\\spaceship-indoor\\140#2x_1y_1z\\0.24013\\mem_13.json",
+    "frame_start": 3
+  },
+  "pipeline": "DEFERRED",
+  "camera": {
+    "center": {
+      "y": 8.694186210632324,
+      "z": 96.63692474365234,
+      "x": -0.05737307667732239
+    },
+    "control": "PATH",
+    "frames_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\spaceship-indoor\\camera\\camera.json",
+    "eye": {
+      "y": 8.694186210632324,
+      "z": 99.63693237304688,
+      "x": -0.057373080402612686
+    },
+    "aspect": 1.0,
+    "clip": {
+      "near": 0.01,
+      "far": 4000.0
+    },
+    "up": {
+      "y": 2.4472265243530273,
+      "z": -7.62939453125e-06,
+      "x": 3.725290298461914e-09
+    },
+    "output": {
+      "type": "DISPLAY",
+      "frame_end": 519,
+      "image_base_path": "",
+      "frame_start": 3
+    },
+    "fovy": 45.0
+  },
+  "hashed_config": {
+    "starting_depth": 0,
+    "seed": 23,
+    "r_increase_ratio": 1.5,
+    "max_attempts": 15,
+    "node_size": 3.8423921690000005
+  }
+}

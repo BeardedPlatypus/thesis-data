@@ -1,0 +1,67 @@
+{
+  "tile_size": {
+    "y": 32,
+    "x": 32
+  },
+  "exit_frame": 556,
+  "lights": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\lights\\232#1x_2y_2z.json"
+    }
+  ],
+  "viewport": {
+    "height": 2560,
+    "width": 2560
+  },
+  "geometry": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\geometry\\forward_hashed.json"
+    }
+  ],
+  "log": {
+    "output_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\hashed_exec_lights\\forward\\pipers-alley\\232#1x_2y_2z\\1.066666\\data_3.json",
+    "is_logging": true,
+    "frame_end": 551,
+    "memory_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\hashed_exec_lights\\forward\\pipers-alley\\232#1x_2y_2z\\1.066666\\mem_3.json",
+    "frame_start": 3
+  },
+  "pipeline": "FORWARD",
+  "camera": {
+    "center": {
+      "y": 4.0206146240234375,
+      "z": 20.290212631225586,
+      "x": 155.69398498535156
+    },
+    "control": "PATH",
+    "frames_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\camera\\camera.json",
+    "eye": {
+      "y": 3.7858095169067383,
+      "z": 20.290212631225586,
+      "x": 158.68478393554688
+    },
+    "aspect": 1.0,
+    "clip": {
+      "near": 0.01,
+      "far": 4000.0
+    },
+    "up": {
+      "y": 2.4397192001342773,
+      "z": 0.0,
+      "x": 0.191558837890625
+    },
+    "output": {
+      "type": "DISPLAY",
+      "frame_end": 551,
+      "image_base_path": "",
+      "frame_start": 3
+    },
+    "fovy": 45.0
+  },
+  "hashed_config": {
+    "starting_depth": 0,
+    "seed": 23,
+    "r_increase_ratio": 1.5,
+    "max_attempts": 15,
+    "node_size": 192.00062666619996
+  }
+}

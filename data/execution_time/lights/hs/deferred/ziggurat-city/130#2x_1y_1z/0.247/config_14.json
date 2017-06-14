@@ -1,0 +1,67 @@
+{
+  "tile_size": {
+    "y": 32,
+    "x": 32
+  },
+  "exit_frame": 468,
+  "lights": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\lights\\130#2x_1y_1z.json"
+    }
+  ],
+  "viewport": {
+    "height": 2560,
+    "width": 2560
+  },
+  "geometry": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\geometry\\deferred_hashed.json"
+    }
+  ],
+  "log": {
+    "output_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\hashed_exec_lights\\deferred\\ziggurat-city\\130#2x_1y_1z\\0.247\\data_14.json",
+    "is_logging": true,
+    "frame_end": 463,
+    "memory_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\hashed_exec_lights\\deferred\\ziggurat-city\\130#2x_1y_1z\\0.247\\mem_14.json",
+    "frame_start": 3
+  },
+  "pipeline": "DEFERRED",
+  "camera": {
+    "center": {
+      "y": 7.303444862365723,
+      "z": 0.1874852180480957,
+      "x": 0.643954336643219
+    },
+    "control": "PATH",
+    "frames_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\ziggurat-city\\camera\\camera.json",
+    "eye": {
+      "y": 5.455081462860107,
+      "z": 2.530644655227661,
+      "x": 0.9491750001907349
+    },
+    "aspect": 1.0,
+    "clip": {
+      "near": 0.01,
+      "far": 4000.0
+    },
+    "up": {
+      "y": 1.9275612831115723,
+      "z": 1.4951550960540771,
+      "x": 0.19475948810577393
+    },
+    "output": {
+      "type": "DISPLAY",
+      "frame_end": 463,
+      "image_base_path": "",
+      "frame_start": 3
+    },
+    "fovy": 45.0
+  },
+  "hashed_config": {
+    "starting_depth": 0,
+    "seed": 23,
+    "r_increase_ratio": 1.5,
+    "max_attempts": 15,
+    "node_size": 2.4703211
+  }
+}

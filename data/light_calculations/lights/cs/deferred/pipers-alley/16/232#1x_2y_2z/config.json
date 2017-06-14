@@ -1,0 +1,68 @@
+{
+  "tile_size": {
+    "y": 16,
+    "x": 16
+  },
+  "camera": {
+    "output": {
+      "frame_start": 3,
+      "frame_end": 551,
+      "type": "DISPLAY",
+      "image_base_path": ""
+    },
+    "center": {
+      "y": 4.0206146240234375,
+      "z": 20.290212631225586,
+      "x": 155.69398498535156
+    },
+    "eye": {
+      "y": 3.7858095169067383,
+      "z": 20.290212631225586,
+      "x": 158.68478393554688
+    },
+    "frames_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\camera\\camera.json",
+    "up": {
+      "y": 2.4397192001342773,
+      "z": 0.0,
+      "x": 0.191558837890625
+    },
+    "fovy": 45.0,
+    "aspect": 1.0,
+    "clip": {
+      "near": 0.01,
+      "far": 4000.0
+    },
+    "control": "PATH"
+  },
+  "lights": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\lights\\232#1x_2y_2z.json"
+    }
+  ],
+  "exit_frame": 556,
+  "hashed_config": {
+    "seed": 23,
+    "max_attempts": 15,
+    "node_size": 91.2603549,
+    "starting_depth": 0,
+    "r_increase_ratio": 1.5
+  },
+  "pipeline": "DEFERRED",
+  "geometry": [
+    {
+      "path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\scenes\\pipers-alley\\geometry\\deferred_clustered.json"
+    }
+  ],
+  "viewport": {
+    "height": 2560,
+    "width": 2560
+  },
+  "log": {
+    "frame_start": 3,
+    "is_counting_calculations": true,
+    "frame_end": 551,
+    "output_path_calculations": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\lc-summed\\lights\\cs\\deferred\\pipers-alley\\16\\232#1x_2y_2z\\lc_data.json",
+    "is_logging": true,
+    "output_path": "C:\\Users\\Monthy\\Documents\\projects\\thesis\\thesis-data-suite\\data\\raw\\lc-summed\\lights\\cs\\deferred\\pipers-alley\\16\\232#1x_2y_2z\\data.json"
+  }
+}
