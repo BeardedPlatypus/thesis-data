@@ -124,3 +124,8 @@ The folders are structured in the following way:
     * `camera_path_exporter.py`
     * `light_exporter.py`
 
+## See also
+
+* [The repository of the software implementing the Hashed Shading algorithm.](https://github.com/BeardedPlatypus/nTiled)
+* [The repository of the complete master thesis (in dutch).](https://github.com/BeardedPlatypus/thesis-latex)
+* [The repository of the paper (in english).](https://github.com/BeardedPlatypus/thesis-paper)
